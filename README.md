@@ -11,3 +11,5 @@
 - Trained the model on LogisticRegression from sklearn.
 - Predicted if the given customer with its features will churn or not.
 - Refer the `churn_prediction.ipynb` file for better understanding.
+- Used various metrics from sklearn to check if the accuracy we got in the model is really good.
+- Learned about accuracy_score, confusion_matrix, roc, auc, cross validation
